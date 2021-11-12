@@ -16,7 +16,64 @@
 
 
 ## Getting Started 
-### ● 3D Viewer
+### 3D Viewer
 3DViewer/3DViewer.html<br>
 
-<br>
+### ‼ Installing 
+After downloading & opening the 3D Viewer file, install & run live-server in your local computer, and change the 3D Viewer URL in Android App/iOS App to your local computer IP:port.
+
+```
+npm install -g live-server
+```
+```
+live-server
+```
+
+## 📱 Application Operation Screen
+### 🔯 Android Application Operation Screen
+
+
+### 🍎 iOS Application Operation Screen
+
+
+
+
+## ▶ Application Flow
+### Android Flow
+
+### iOS Flow
+
+
+
+
+
+### ‼ Installing 
+
+```
+
+```
+
+## Running the tests 
+
+
+
+```
+
+```
+
+### Test case
+
+```
+
+```
+
+## Deployment 
+
+Add additional notes about how to deploy this on a live system 
+
+
+
+
+## 🤝🏻Acknowledgments
+
+* [HanssemLink](https://github.com/ddllttmmddwwnnAccount)
