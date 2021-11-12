@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="18122" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="18093"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Progress View Controller-->
+        <scene sceneID="s0d-6b-0kx">
+            <objects>
+                <viewController storyboardIdentifier="popUpView" id="Y6W-OH-hqX" customClass="ProgressViewController" customModule="ARKitProject" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="5EZ-qb-Rvc">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="jhc-7e-3vW">
+                                <rect key="frame" x="60" y="339" width="294" height="218"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Downloading ..." textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="UlA-uZ-a0N">
+                                        <rect key="frame" x="83.5" y="35" width="127" height="21"/>
+                                        <fontDescription key="fontDescription" type="boldSystem" pointSize="17"/>
+                                        <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="dj3-0r-sPW">
+                                        <rect key="frame" x="0.0" y="176" width="294" height="43"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="43" id="9gS-3J-M8R"/>
+                                        </constraints>
+                                        <state key="normal" title="Cancle"/>
+                                        <connections>
+                                            <action selector="cancle:" destination="Y6W-OH-hqX" eventType="touchUpInside" id="uQP-Qc-VeL"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="bottom" secondItem="dj3-0r-sPW" secondAttribute="bottom" constant="-1" id="6Cc-Nu-avE"/>
+                                    <constraint firstItem="dj3-0r-sPW" firstAttribute="leading" secondItem="jhc-7e-3vW" secondAttribute="leading" id="DLB-xv-En4"/>
+                                    <constraint firstItem="dj3-0r-sPW" firstAttribute="centerX" secondItem="UlA-uZ-a0N" secondAttribute="centerX" id="dWu-GH-Z02"/>
+                                    <constraint firstItem="UlA-uZ-a0N" firstAttribute="centerX" secondItem="jhc-7e-3vW" secondAttribute="centerX" id="utf-zv-Qa6"/>
+                                    <constraint firstItem="UlA-uZ-a0N" firstAttribute="top" secondItem="jhc-7e-3vW" secondAttribute="top" constant="35" id="z32-Fo-PzS"/>
+                                </constraints>
+                            </view>
+                            <progressView opaque="NO" contentMode="scaleToFill" verticalHuggingPriority="750" restorationIdentifier="progress" progress="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="So1-Oh-jc7">
+                                <rect key="frame" x="98" y="446" width="218" height="4"/>
+                            </progressView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="vDu-zF-Fre"/>
+                        <color key="backgroundColor" red="0.089349877777647163" green="0.09041356679880963" blue="0.09041356679880963" alpha="0.59242300435799322" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="jhc-7e-3vW" firstAttribute="centerY" secondItem="5EZ-qb-Rvc" secondAttribute="centerY" id="0ey-Pu-dWD"/>
+                            <constraint firstItem="So1-Oh-jc7" firstAttribute="centerX" secondItem="jhc-7e-3vW" secondAttribute="centerX" id="2G3-9h-9jf"/>
+                            <constraint firstItem="jhc-7e-3vW" firstAttribute="centerX" secondItem="5EZ-qb-Rvc" secondAttribute="centerX" id="4hE-cb-kCM"/>
+                            <constraint firstItem="So1-Oh-jc7" firstAttribute="leading" secondItem="vDu-zF-Fre" secondAttribute="leading" constant="98" id="KmC-D4-14K"/>
+                            <constraint firstItem="jhc-7e-3vW" firstAttribute="top" secondItem="vDu-zF-Fre" secondAttribute="top" constant="295" id="Vra-Rn-2w4"/>
+                            <constraint firstItem="vDu-zF-Fre" firstAttribute="trailing" secondItem="jhc-7e-3vW" secondAttribute="trailing" constant="60" id="Y2Q-Ur-tQL"/>
+                            <constraint firstItem="jhc-7e-3vW" firstAttribute="leading" secondItem="vDu-zF-Fre" secondAttribute="leading" constant="60" id="j6S-uc-G6Y"/>
+                            <constraint firstItem="So1-Oh-jc7" firstAttribute="centerY" secondItem="jhc-7e-3vW" secondAttribute="centerY" id="rtP-pv-rqi"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="cancleBtn" destination="dj3-0r-sPW" id="K2h-t3-16l"/>
+                        <outlet property="popUpView" destination="jhc-7e-3vW" id="9kd-bx-lAw"/>
+                        <outlet property="progress" destination="So1-Oh-jc7" id="ag1-od-3dz"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Ief-a0-LHa" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="137.68115942028987" y="79.6875"/>
+        </scene>
+    </scenes>
+</document>
