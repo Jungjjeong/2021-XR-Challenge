@@ -1,5 +1,11 @@
 # 2021-Regional-XR-Challenge
 2021 지역 XR 첼린지 - 가구 AR 배치 어플리케이션 : 배치해방
+<br>(AR Furniture Placement Application)<br><br>
+
+## 수상 내역(Award)
+2021 지역 XR 챌린지 장려상
+<br>(3rd place in National XR Challenge Competition, Ministry of Science & ICT, Korea)
+
 
 # <img src="https://kuku-keke.com/wp-content/uploads/2020/05/2707_4.png" height="40"/>: Project
 
