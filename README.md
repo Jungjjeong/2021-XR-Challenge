@@ -82,4 +82,4 @@ Add additional notes about how to deploy this on a live system
 
 ## 🤝🏻Acknowledgments
 
-* [HanssemLink](https://github.com/ddllttmmddwwnnAccount)
+* http://www.k-hackathon.com/
