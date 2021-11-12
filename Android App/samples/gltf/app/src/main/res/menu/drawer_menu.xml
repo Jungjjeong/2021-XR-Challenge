@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_668317"
+        android:icon="@drawable/couch"
+        android:title="한샘 하이 엠마 천연가죽 3인용 소파" />
+    <item
+        android:id="@+id/menu_681947"
+        android:icon = "@drawable/couch"
+        android:title="한샘 하이 모먼트 헤드무빙 천연가죽 소파 3인용" />
+    <item
+        android:id="@+id/menu_737687"
+        android:icon = "@drawable/couch"
+        android:title="한샘 하이 브리오 이태리 천연가죽 3.5인용 소파" />
+    <item
+        android:id="@+id/menu_746526"
+        android:icon = "@drawable/couch"
+        android:title="한샘 프라임 노블 천연면피가죽 전동 리클라이너 소파 3인용" />
+    <item
+        android:id="@+id/menu_746540"
+        android:icon = "@drawable/couch"
+        android:title="한샘 프라임 리츠 천연면피가죽 전동 리클라이너 소파 4인용" />
+    <item
+        android:id="@+id/menu_772973"
+        android:icon = "@drawable/bed"
+        android:title="한샘 클로즈 침대 SS 슈퍼싱글 코튼그레이" />
+    <item
+        android:id="@+id/menu_777039"
+        android:icon = "@drawable/couch"
+        android:title="한샘 밀로 패브릭소파 3인용" />
+    <item
+        android:id="@+id/menu_786840"
+        android:icon = "@drawable/couch"
+        android:title="한샘 모아 모듈형 패브릭소파 3인용" />
+    <item
+        android:id="@+id/menu_786841"
+        android:icon = "@drawable/couch"
+        android:title="한샘 모아 모듈형 패브릭소파 3인 카우치" />
+    <item
+        android:id="@+id/menu_796416"
+        android:icon = "@drawable/couch"
+        android:title="한샘 엠마 테일러 천연면피가죽 3인용 소파" />
+    <item
+        android:id="@+id/menu_799215"
+        android:icon = "@drawable/couch"
+        android:title="한샘 엠마 컴포트 천연면피가죽 3인용 소파" />
+</menu>
