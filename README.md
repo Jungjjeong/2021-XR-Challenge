@@ -84,6 +84,11 @@ live-server
 Add additional notes about how to deploy this on a live system 
 
 
+## 🤝🏻Built With 
+* [정지영](https://github.com/Jungjjeong) - Developer of Android Application & iOS Application
+* [서예현](https://github.com/justbeaver97) - Developer of 3D Viewer & iOS Application
+* [정현성](https://github.com/Gringreem) - Developer of 3D Viewer & Android Application
+
 
 
 ## 🤝🏻Acknowledgments
