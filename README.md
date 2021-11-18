@@ -24,7 +24,7 @@
 
 ![img](https://img.shields.io/badge/JavaScript-ES6-brightgreen)
 ![img](https://img.shields.io/badge/Swift-5.5-green)
-![img](https://img.shields.io/badge/Xcode-12.5-yellowgreen)
+![img](https://img.shields.io/badge/Xcode-12.5-yellowgreen)<br>
 
 
 ## Getting Started 
@@ -55,16 +55,10 @@ live-server
 ### Android Flow
 
 ### iOS Flow
-<img src="https://user-images.githubusercontent.com/72294509/142341707-3f56bd27-8b56-4255-a510-c8000791155a.png"/>
+<img src="https://user-images.githubusercontent.com/72294509/142341707-3f56bd27-8b56-4255-a510-c8000791155a.png"/><br>
 
 
 
-
-### ‼ Installing 
-
-```
-
-```
 
 ## Running the tests 
 
