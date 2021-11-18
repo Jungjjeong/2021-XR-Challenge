@@ -6,7 +6,7 @@
 <img src="https://user-images.githubusercontent.com/72294509/142336912-7c2eed24-85d7-4245-98b8-db742c3bc0ae.png" height="210"/>  <img src="https://user-images.githubusercontent.com/72294509/142336935-30249068-14d3-42f9-9791-b9e5a537d472.png" height="210"/><br><br>
 <img src="https://user-images.githubusercontent.com/72294509/142337390-7a3652a2-15ac-47b2-855e-e1bb66b0b9ff.png" height="330"/>  <img src="https://user-images.githubusercontent.com/72294509/142337429-8007c3b7-85cb-4461-87fe-ccc6b78fe1c7.png" height="330"/>
 <img src="https://user-images.githubusercontent.com/72294509/142337465-b40b737f-aec3-436f-a27b-82d26f323995.png" height="330"/>  <img src="https://user-images.githubusercontent.com/72294509/142337491-c343b561-606e-4802-adc8-019dd7cc1378.png" height="330"/>
-<img src="https://user-images.githubusercontent.com/72294509/142337521-0cb323ba-a883-4637-96fc-022b747c5444.png" height="330"/>  
+<img src="https://user-images.githubusercontent.com/72294509/142337521-0cb323ba-a883-4637-96fc-022b747c5444.png" height="330"/><br><br>
 
 ## 🏆 수상 내역(Award)
 2021 지역 XR 챌린지 장려상
@@ -46,18 +46,18 @@ live-server
 
 
 ### 🍎 iOS Application Operation Screen
-<img src="https://user-images.githubusercontent.com/73840274/141998265-c0b0bbb2-3170-4605-9bc6-1c6d0472ffd3.png" height="330"/>  <img src="https://user-images.githubusercontent.com/73840274/141998296-bf520ad5-1f41-4936-8c91-d916dd84ce9a.png" height="330"/>
-<img src="https://user-images.githubusercontent.com/73840274/141998305-1bd7d2f6-3deb-4a94-996b-9042966340ed.PNG" height="330"/>  <img src="https://user-images.githubusercontent.com/73840274/141998478-c7beccc4-cc9b-4319-9c87-8bddeca81783.PNG" height="330"/>
-<img src="https://user-images.githubusercontent.com/73840274/141998523-259d1911-b120-4d0f-8d50-5ba98340aad1.PNG" height="330"/>  
-<br><img src="https://user-images.githubusercontent.com/73840274/141998317-e74c9ee5-673a-4f55-8104-cf906da3dab3.PNG" height="330"/>
-<img src="https://user-images.githubusercontent.com/73840274/141998534-eaef42b8-7dee-490a-adca-82ad6c0bb4de.PNG" height="330"/>  <img src="https://user-images.githubusercontent.com/73840274/141998541-41fbae8d-9f81-4dc3-88bb-ebd6586e523c.PNG" height="330"/>
-<img src="https://user-images.githubusercontent.com/73840274/141998545-aea60b74-3b27-40d5-bcb5-34be08da0106.PNG" height="330"/>  <img src="https://user-images.githubusercontent.com/73840274/141999241-f4af59f6-5655-46cf-8e45-8e8ac11f742d.PNG" height="330"/>
+<img src="https://user-images.githubusercontent.com/72294509/142341387-f38d344a-b0db-4404-af16-43bae2465b83.png" height="330"/>  <img src="https://user-images.githubusercontent.com/72294509/142341391-7a189399-7c62-4acf-b86c-066b0d707362.png" height="330"/>
+<img src="https://user-images.githubusercontent.com/72294509/142341392-c6a6bf2f-74b3-4a6b-937c-cce2d7b2ce79.png" height="330"/>  <img src="https://user-images.githubusercontent.com/72294509/142341394-778339db-5052-4166-8f4a-97d99bbff5f9.png" height="330"/>
+<img src="https://user-images.githubusercontent.com/72294509/142341396-2d07e571-d127-4100-86bb-66c4a0972915.png" height="330"/>  
+<br><img src="https://user-images.githubusercontent.com/72294509/142341397-cbbe7d27-1e91-4d28-9c30-b0b808464894.png" height="330"/>
+<img src="https://user-images.githubusercontent.com/72294509/142341399-8c45e6fe-90e6-41b5-ae3b-14ea1d6b66f4.png" height="330"/>  <img src="https://user-images.githubusercontent.com/72294509/142341402-7610e214-2d06-4393-aedf-3fe8f2859fd1.png" height="330"/>
+<img src="https://user-images.githubusercontent.com/72294509/142341403-e8120502-3d64-41df-ba14-2f6e5693686e.png" height="330"/>  <img src="https://user-images.githubusercontent.com/72294509/142341381-d5b0a397-d207-4806-aa45-5f42a1e84f5d.png" height="330"/><br>
 
 ## ▶ Application Flow
 ### Android Flow
 
 ### iOS Flow
-
+<img src="https://user-images.githubusercontent.com/72294509/142341707-3f56bd27-8b56-4255-a510-c8000791155a.png"/>
 
 
 
