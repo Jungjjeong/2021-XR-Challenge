@@ -2,7 +2,7 @@
 2021 지역 XR 챌린지 - 가구 AR 배치 어플리케이션 : 배치해방
 <br>(AR Furniture Placement Application)<br>
 
-<img src= "https://user-images.githubusercontent.com/72294509/142336809-83d52194-87da-4771-b988-e6bad8d8cda9.png" height="210"/>  <img src="https://user-images.githubusercontent.com/72294509/142336875-02c45595-4373-4d95-9fd6-463efd2b6423.png" height="210"/>
+<img src= "https://user-images.githubusercontent.com/72294509/142336809-83d52194-87da-4771-b988-e6bad8d8cda9.png" width = "50%"/>  <img src="https://user-images.githubusercontent.com/72294509/142336875-02c45595-4373-4d95-9fd6-463efd2b6423.png" width = "50%"/>
 <img src="https://user-images.githubusercontent.com/72294509/142336912-7c2eed24-85d7-4245-98b8-db742c3bc0ae.png" height="210"/>  <img src="https://user-images.githubusercontent.com/72294509/142336935-30249068-14d3-42f9-9791-b9e5a537d472.png" height="210"/><br><br>
 <img src="https://user-images.githubusercontent.com/72294509/142337390-7a3652a2-15ac-47b2-855e-e1bb66b0b9ff.png" height="330"/>  <img src="https://user-images.githubusercontent.com/72294509/142337429-8007c3b7-85cb-4461-87fe-ccc6b78fe1c7.png" height="330"/>
 <img src="https://user-images.githubusercontent.com/72294509/142337465-b40b737f-aec3-436f-a27b-82d26f323995.png" height="330"/>  <img src="https://user-images.githubusercontent.com/72294509/142337491-c343b561-606e-4802-adc8-019dd7cc1378.png" height="330"/>
