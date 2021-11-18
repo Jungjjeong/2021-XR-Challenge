@@ -1,4 +1,4 @@
-# 2021-Regional-XR-Challenge
+# 2021-XR-Challenge
 2021 지역 XR 챌린지 - 가구 AR 배치 어플리케이션 : 배치해방
 <br>(AR Furniture Placement Application)<br>
 
@@ -42,8 +42,6 @@ live-server
 ```
 
 ## 📱 Application Operation Screen
-### 🔯 Android Application Operation Screen
-
 
 ### 🍎 iOS Application Operation Screen
 <img src="https://user-images.githubusercontent.com/72294509/142341387-f38d344a-b0db-4404-af16-43bae2465b83.png" height="330"/>  <img src="https://user-images.githubusercontent.com/72294509/142341391-7a189399-7c62-4acf-b86c-066b0d707362.png" height="330"/>
