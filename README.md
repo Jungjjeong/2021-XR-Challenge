@@ -1,5 +1,5 @@
 # 2021-Regional-XR-Challenge
-2021 지역 XR 첼린지 - 가구 AR 배치 어플리케이션 : 배치해방
+2021 지역 XR 챌린지 - 가구 AR 배치 어플리케이션 : 배치해방
 <br>(AR Furniture Placement Application)<br>
 
 <img src= "https://user-images.githubusercontent.com/72294509/142336809-83d52194-87da-4771-b988-e6bad8d8cda9.png" height="210"/>  <img src="https://user-images.githubusercontent.com/72294509/142336875-02c45595-4373-4d95-9fd6-463efd2b6423.png" height="210"/>
@@ -8,7 +8,7 @@
 <img src="https://user-images.githubusercontent.com/72294509/142337465-b40b737f-aec3-436f-a27b-82d26f323995.png" height="330"/>  <img src="https://user-images.githubusercontent.com/72294509/142337491-c343b561-606e-4802-adc8-019dd7cc1378.png" height="330"/>
 <img src="https://user-images.githubusercontent.com/72294509/142337521-0cb323ba-a883-4637-96fc-022b747c5444.png" height="330"/>  
 
-## 수상 내역(Award)
+## 🏆 수상 내역(Award)
 2021 지역 XR 챌린지 장려상
 <br>(3rd place in National XR Challenge Competition, Ministry of Science & ICT, Korea)
 
