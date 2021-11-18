@@ -2,8 +2,8 @@
 2021 지역 XR 첼린지 - 가구 AR 배치 어플리케이션 : 배치해방
 <br>(AR Furniture Placement Application)<br>
 
-<img src="https://user-images.githubusercontent.com/73840274/141996657-2995f053-c18e-4faa-bbad-6ca359bab173.png" height="210"/>  <img src="https://user-images.githubusercontent.com/73840274/141996940-d2de17d7-f51b-4a47-9fc1-beffbba16c29.png" height="210"/>
-<img src="https://user-images.githubusercontent.com/73840274/141996948-78f8d8a2-420d-4e3d-b188-a86bd79ccce7.png" height="210"/>  <img src="https://user-images.githubusercontent.com/73840274/141996954-51cab007-ccf6-49c2-91e0-ff3bf2c1036c.png" height="210"/>
+<img src= "https://user-images.githubusercontent.com/72294509/142336809-83d52194-87da-4771-b988-e6bad8d8cda9.png" height="210"/>  <img src="https://user-images.githubusercontent.com/72294509/142336875-02c45595-4373-4d95-9fd6-463efd2b6423.png" height="210"/>
+<img src="https://user-images.githubusercontent.com/72294509/142336912-7c2eed24-85d7-4245-98b8-db742c3bc0ae.png" height="210"/>  <img src="https://user-images.githubusercontent.com/72294509/142336935-30249068-14d3-42f9-9791-b9e5a537d472.png" height="210"/>
 
 ## 수상 내역(Award)
 2021 지역 XR 챌린지 장려상
